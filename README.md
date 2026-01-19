@@ -27,10 +27,10 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/london-company-mock-website.git
+git clone https://github.com/yourusername/london-company-design2.git
 
 # Navigate into the project directory
-cd london-company-mock-website
+cd london-company-design2
 
 # Open the project
 open index.html
