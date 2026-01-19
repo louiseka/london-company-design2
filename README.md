@@ -4,7 +4,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Live Project
-🌐 **Live Site:** louiseka.github.io/london-company-design2/
+🌐 **Live Site:** [louiseka.github.io/london-company-design2/](https://louiseka.github.io/london-company-design2/)
 
 ## What is the London Company Mock Website?
 This project is a **mock company website** created as part of the **TechNative Digital Software Development Bootcamp** to train and showcase **core HTML and CSS skills**.
